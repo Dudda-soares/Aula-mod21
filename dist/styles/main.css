@@ -23,6 +23,7 @@
 }
 
 .hero__text {
+  text-align: center;
   margin-top: 64px;
   margin-bottom: 64px;
   font-size: 40px;

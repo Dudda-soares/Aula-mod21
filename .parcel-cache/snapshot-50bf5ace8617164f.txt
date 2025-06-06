@@ -1,4 +1,4 @@
-3735
+3737
 103C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@parcel\transformer-sass\lib\legacy.js133937093716073053 0
 62C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\.gitignore133937102766205120 0
 113C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\lightningcss\node_modules\detect-libc\index.d.ts133937084812155009 0
@@ -27,7 +27,7 @@
 99C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@parcel\feature-flags\src\index.js133937084811426280 0
 114C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133937084813130980 0
 96C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\caniuse-lite\data\regions\AX.js133937084816414866 0
-56C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist133937246676638308 1
+56C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist133937252329640547 1
 84C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\type-fest\readme.md133937084803072904 0
 96C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\caniuse-lite\data\regions\UZ.js133937084841156171 0
 86C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@swc\counter\index.js133937084802997534 0
@@ -77,11 +77,11 @@
 113C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\caniuse-lite\data\features\css-color-function.js133937084822277435 0
 72C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\src\styles\main.scss133937171561401551 0
 96C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\semver\ranges\max-satisfying.js133937084813443517 0
-74C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\src\styles\_event.scss133937189519760018 0
+74C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\src\styles\_event.scss133937252029625724 0
 96C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@parcel\transformer-postcss\lib133937084811153954 1
 69C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@img133937096679197580 1
 94C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@swc\helpers\_\_object_spread133937084828976171 1
-73C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\src\styles\_hero.scss133937174357129177 0
+73C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\src\styles\_hero.scss133937251896808910 0
 106C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\caniuse-lite\data\features\canvas-text.js133937084819258239 0
 78C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\src\styles\_variaveis.scss133937177692976336 0
 96C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\caniuse-lite\data\regions\UA.js133937084840685107 0
@@ -237,7 +237,7 @@
 70C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\clone133937084804492469 1
 76C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\detect-libc133937084804482458 1
 86C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\escalade\package.json133937084803464340 0
-72C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\styles\main.css133937246361684087 0
+72C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\styles\main.css133937251844826811 0
 97C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\term-size\vendor\macos\.DS_Store133937084803234222 0
 89C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\lmdb\src\compression.cpp133937084819978269 0
 74C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\immutable133937093709998856 1
@@ -1963,6 +1963,7 @@
 96C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\caniuse-lite\data\regions\MD.js133937084835789745 0
 95C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@swc\helpers\esm\_ts_values.js133937084823906673 0
 96C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\caniuse-lite\data\regions\ME.js133937084835945053 0
+84C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\Aula-mod21.804e6020.css.map133937252329620520 0
 121C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@swc\helpers\_\_possible_constructor_return\package.json133937084829179333 0
 132C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json133937084827082071 0
 94C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@parcel\markdown-ansi\LICENSE133937084803439085 0
@@ -2657,6 +2658,7 @@
 106C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@swc\helpers\_\_skip_first_generator_next133937084829395021 1
 96C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@swc\helpers\_\_super_prop_base133937084829557153 1
 86C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@swc\helpers\_\_throw133937084829734709 1
+80C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\Aula-mod21.804e6020.css133937252329360163 0
 100C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@swc\helpers\_\_to_consumable_array133937084829865407 1
 96C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@swc\helpers\_\_to_property_key133937084830040994 1
 117C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\node_modules\@parcel\types-internal\src\FileCreateInvalidation.js133937084807018662 0
@@ -3727,10 +3729,10 @@
 79C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\ebac_logo.cec57e6d.svg133937246674752360 0
 78C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\frontend.6a770e7f.png133937246674307206 0
 75C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\fundo.d0fbeb82.png133937246676570252 0
-67C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\index.html133937246676570252 0
+67C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\index.html133937252329360163 0
 64C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\scripts133937246361514017 1
-63C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\styles133937246361743999 1
+63C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\styles133937251844856768 1
 75C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\ui-ux.eb833062.png133937246361258578 0
-76C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\styles\main.css.map133937246361734128 0
+76C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\styles\main.css.map133937251844846876 0
 72C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\scripts\main.js133937246361438862 0
 76C:\Users\dudin\OneDrive\Documentos\Front\Aula-mod21\dist\scripts\main.js.map133937246361493999 0
